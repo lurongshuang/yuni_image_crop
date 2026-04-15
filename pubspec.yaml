@@ -1,6 +1,6 @@
 name: yuni_image_crop
 description: A new Flutter package for image cropping, based on extended_image.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/lurongshuang/yuni_image_crop 
 
 environment:
